@@ -2,6 +2,7 @@ package com.changework;
 
 import java.util.Arrays;
 
+//877-石子游戏
 public class StoneGame {
 
     public boolean stoneGame(int[] piles) {
